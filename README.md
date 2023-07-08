@@ -3,7 +3,7 @@
     The code represents a basic implementation of a Space Shooter game in C++. The game is played within a console window and involves controlling a spaceship, shooting aliens, and earning points.
   </p>
   <p>
-    The code begins by including the necessary header files, such as `<iostream>`, `<fstream>`, `<windows.h>`, etc. These headers provide the required functionalities for input/output, file handling, console manipulation, and timing.
+    The code begins by including the necessary header files, such as 'iostream', 'fstream', 'windows.h', etc. These headers provide the required functionalities for input/output, file handling, console manipulation, and timing.
   </p>
   <p>
     The code defines various functions that handle different aspects of the game. These functions include `printShip` to display the ship, `printBorder` to draw the border and game elements, `makeAlien` to generate aliens randomly, `makeBullet` to create bullets when the player shoots, and several other functions to move objects, check for collisions, and update the game state.
